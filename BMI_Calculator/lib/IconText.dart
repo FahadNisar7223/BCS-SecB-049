@@ -1,5 +1,5 @@
-import 'package:bmicalculator/constants.dart';
 import 'package:flutter/material.dart';
+import 'constants.dart';
 
 class ReapeatTIwidget extends StatelessWidget {
   ReapeatTIwidget({required this.icondata,this.label});
