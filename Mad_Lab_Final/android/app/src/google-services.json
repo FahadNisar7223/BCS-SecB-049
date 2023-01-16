@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657390891518",
+    "project_id": "guessno-f6b7f",
+    "storage_bucket": "guessno-f6b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657390891518:android:1d1857cf72a86b592590af",
+        "android_client_info": {
+          "package_name": "com.example.guessingno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657390891518-3aeub8pv3sv97vtene9sttu09pneu1dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu6FMx6pnsxxZV9jS_pJvaRjNI3Cce5Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657390891518-3aeub8pv3sv97vtene9sttu09pneu1dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
